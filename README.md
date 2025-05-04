@@ -145,12 +145,6 @@ pingouin >= 0.5.5
 scipy >= 1.13.0
 ```
 
-Install them using:
-
-```bash
-pip install -r requirements.txt
-```
-
 ---
 
 ## Notes
